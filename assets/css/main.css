@@ -1,0 +1,75 @@
+header{
+  border-bottom-style: hidden;
+  height: 60px;
+}
+img{
+  width:3%;
+  float: right;
+}
+#cabecera{
+  font-size: 20px;
+  margin-left: 10px
+}
+.contenido{
+  position: absolute;
+  display: inline-block;
+  margin: 10px 200px 100px 200px;
+}
+#primer-titulo{
+  text-align: left;
+  color: #1BAFA6
+}
+.enfasis-blue{
+  color: #0000FF;
+}
+#segundo-titulo{
+  text-align: left;
+}
+p{
+  text-align:justify;
+}
+.enfasis-red{
+  color: red;
+}
+.enfasis-orange{
+  color: #F7C445;
+}
+#enfasis-purpe{
+  color: #842BD7;
+}
+.subrayado{
+  text-decoration: underline;
+}
+.cursiva{
+  font-style: oblique;
+}
+.tabla-contenedor{
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+
+}
+tr{
+  border: 1px solid black;
+  padding:4px;
+}
+th{
+  border: 1px solid black;
+  padding:4px;
+}
+td{
+  border: 1px solid black;
+  padding:4px;
+}
+#parrafo-green{
+  color: #889E43;
+}
+.resaltado-green{
+  color: #047C6F;
+}
+#resaltado-rose{
+  color: #E42AD6;
+}
+.strong{
+  font-weight: bold;
+}
